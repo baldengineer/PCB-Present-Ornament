@@ -1,4 +1,4 @@
-![Present in OSH Park After Dark](images/pcb-present-oshpark-after-dark.jpg)
+![Present in OSH Park After Dark](images/IMG_6391.jpg)
 
 ## KiCad Present / Ornament
 KiCad stuff.
