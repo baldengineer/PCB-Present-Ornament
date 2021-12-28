@@ -3,6 +3,8 @@
 ## KiCad Present / Ornament
 KiCad stuff.
 
+## Warning: JST is not compatible with Adafruit batteries. + and - are reversed :(
+
 * LED Matrix
 * ATmega8 (328) based
 * Powered by LiPo
